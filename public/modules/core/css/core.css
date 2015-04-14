@@ -1,0 +1,148 @@
+body {
+    background-image: url('../img/textured_paper.png');
+}
+
+.content {
+	margin-top: 50px;
+}
+
+/* For Social Media Buttons */
+.undecorated-link > img {
+    border: 5px solid red;
+    
+}
+
+.undecorated-link:hover {
+	text-decoration: none;
+}
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+	display: none !important;
+}
+.ng-invalid.ng-dirty {
+	border-color: #FA787E;
+}
+.ng-valid.ng-dirty {
+	border-color: #78FA89;
+}
+.browsehappy.jumbotron.hide,
+body.ng-cloak
+{
+	display: block;
+}
+
+.navbar-brand {
+    font-family: 'Amatic SC', cursive;
+    font-size: 32px;
+    color: white;
+    
+}
+
+.navbar-brand:hover {
+    color: #2DE319;
+}
+
+.center {
+    text-align: center;
+    
+}
+
+.first > a {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.second > a {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.derp {
+    font-family: 'Raleway', sans-serif;
+}
+
+#yep {
+    font-family: 'Raleway', sans-serif;
+}
+    
+
+.img-wrap {
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    
+}
+
+
+.shadow {
+	-webkit-box-shadow: 0 6px 6px -6px black;
+	   -moz-box-shadow: 0 6px 6px -6px black;
+	        box-shadow: 0 6px 6px -6px black;
+}
+
+.end {
+    background: #001F2D;
+    color: white;
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 15px;
+    margin-bottom: -40px;
+    
+}
+
+.cheah {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+
+#copyright {
+    font-family: 'Raleway', sans-serif;
+  font-weight: 200;
+}
+
+.footer-list {
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 200;
+  list-style: none;
+}
+
+.footer-list a {
+  margin: 30px 0;
+  width: 300px;
+  text-decoration: none;
+}
+
+.footer-list a li {
+  padding-bottom: 20px;
+  color: #fff;
+}
+
+.footer-list-social {
+  
+  display: inline-block;
+  
+}
+
+.footer-list-social li {
+  display: inline-block;
+  padding-right: 20px;
+}
+
+.stash {
+    background: url('../img/brand/stash_white.png');
+    display: block;
+    height: 156px;
+    width: 202px;
+}
+
+.stash:hover {
+    background: url('../img/brand/stash_green.png');
+    display: block;
+    height: 156px;
+    width: 202px;
+}
